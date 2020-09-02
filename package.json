@@ -1,0 +1,25 @@
+{
+  "name": "readme-js",
+  "version": "1.0.0",
+  "description": "A JavaScript (JS) program that builds a template README.md based on files contained within the base directory.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[F\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[ and inputs from the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redmarmaduke/readme-js.git"
+  },
+  "keywords": [
+    "README"
+  ],
+  "author": "Manuel Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redmarmaduke/readme-js/issues"
+  },
+  "homepage": "https://github.com/redmarmaduke/readme-js#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
